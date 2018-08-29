@@ -1,5 +1,6 @@
 Food
 Pizza
 ice cream
+SALAD
 Fried chicken 
 Chips
