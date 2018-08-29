@@ -3,6 +3,5 @@ Pizza
 ice cream
 SALAD
 STRAWBERRIES
-pepperoni rolls
-Fried chicken 
+pepperoni rolls 
 Chips
