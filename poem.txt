@@ -1,6 +1,5 @@
 Food
 Cheesy Pizza
-ice cream
 SALAD
 STRAWBERRIES
 pepperoni rolls 
