@@ -2,5 +2,6 @@ Food
 Pizza
 ice cream
 SALAD
+STRAWBERRIES
 Fried chicken 
 Chips
